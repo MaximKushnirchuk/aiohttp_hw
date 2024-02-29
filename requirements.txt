@@ -1,0 +1,5 @@
+aiohttp
+aiohttp[speedups]
+sqlalchemy
+asyncpg
+bcrypt
